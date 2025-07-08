@@ -24,6 +24,7 @@ Contributions are welcome! Please open issues or pull requests for feedback, bug
 ## Credits
 
 - Developed by Group 21, CEN4090L
+
   **Members:**
     - Andres Candido
     - Cesar Marquez
