@@ -23,6 +23,7 @@ Contributions are welcome! Please open issues or pull requests for feedback, bug
 
 ## Credits
 
+- Original Repository: https://github.com/ChadIsNumber1/PROJECT_X
 - Developed by Group 21, CEN4090L
 
   **Members:**
